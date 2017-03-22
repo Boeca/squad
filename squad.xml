@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="=A=">
+    <name>Batalhão de Operações Especiais Classe Alpha</name>
+    <email>N/A</email>
+    <web>N/A</web>
+    <picture>3f9b06cfd66691eb12ca2f80ef8c9d50.paa</picture>
+    <title>B.O.E.C.A</title>
+    <member id="76561198150861705" nick="Dantes">
+        <name>1ºSgt.Dantes</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>SARGENTO</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198062575047" nick="Bebaço_Fabio">
+        <name>2ºSgt.Bebaço_Fabio</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>2SARGENTO</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198256920875" nick="Bartok">
+        <name>3ºSgt.Bartok</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>3SARGENTO</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198162726396" nick="gnlino">
+        <name>3ºSgt.gnlino</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>3SARGENTO</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198088815270" nick="Heryton">
+        <name>3ºSgt.Heryton</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>3SARGENTO</icq>
+        <remark>Paramedico</remark>
+    </member>
+    <member id="76561198018058998" nick="marcioviana512">
+        <name>Cb.marcioviana512</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>CABO</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198077423384" nick="Solunado">
+        <name>Cel.Solunado</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>CORONEL</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198165540691" nick="F3nix">
+        <name>Cpl.Omeg4F3nix</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>CORPORAL</icq>
+        <remark>Operador de VANT/DARTER</remark>
+    </member>
+    <member id="76561198083984866" nick="R3n3g4d0">
+        <name>Gen.Bda.R3n3g4d0</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>GENERALDEBRIGADA</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198079559931" nick="Jogufe">
+        <name>Gen.Ex.Jogufe</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>MARECHAL</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198127263438" nick="joao1033">
+        <name>Sdo.joao1033</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>SOLDADO</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198120519845" nick="Lokoplays">
+        <name>Sdo.Lokoplays</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>SOLDADO</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198043461653" nick="SMOKEMAN1212">
+        <name>Sdo.smokeman1212</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>SOLDADO</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561197991253851" nick="Taylan">
+        <name>Sdo.Taylan</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>SOLDADO</icq>
+        <remark>n/a</remark>
+    </member>
+    <member id="76561198011841719" nick="Yuri">
+        <name>Sdo.Yuri</name>
+        <email>clan.boeca@gmail.com</email>
+        <icq>SOLDADO</icq>
+        <remark>n/a</remark>
+    </member>
+</squad>
